@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "543e3cbc2c913724ed66e742f0b8c38828ef1002",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2019-12-05 12:31:34",
+    "files": 1,
+    "merge": false,
+    "message": "fix vignette\n"
+  },
+  "remote": "https://github.com/ropensci/rnaturalearth",
+  "pkg": "rnaturalearth"
+}
