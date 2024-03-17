@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "fc39989bca3201acd9c39d227f1cc65e02640e58",
+    "author": "Philippe Massicotte <pmassicotte@hotmail.com>",
+    "time": "2024-02-16 13:22:23",
+    "files": 2,
+    "merge": false,
+    "message": "correctly returning the filename in ne_download() (closes #98)\n"
+  },
+  "repo": "https://github.com/ropensci/rnaturalearth",
+  "pkg": "rnaturalearth"
+}
