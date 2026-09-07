@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "089322f2acfe54245076463350a803be2fc1ffd7",
+    "author": "Philippe Massicotte <pmassicotte@hotmail.com>",
+    "time": "2026-07-09T13:05:03Z",
+    "files": 2,
+    "merge": false,
+    "message": "build(flake.nix): update arf package build process to use cargoLock\n"
+  },
+  "repo": "https://github.com/ropensci/rnaturalearth",
+  "pkg": "rnaturalearth",
+  "time": "2026-09-07T08:58:03Z"
+}
